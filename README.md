@@ -1,4 +1,4 @@
-# X-ray Image Processing for Torso Cropping and Rib Removal
+# X-ray Image Processing for Automatic Torso Cropping and Rib Removal in Monkey X-rays
 Final Project of Image Processing Course
 
 # Objective
